@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+//display units on offer
     printf("Units Offered This Semester:\n");
     printf("1. Introduction to Programming\n");
     printf("2. Data Structures\n");
